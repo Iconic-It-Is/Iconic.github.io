@@ -1,0 +1,164 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Aman Kuliyal. Fictional person for preview purposes :) CSE Undergrad '23, interested in web development and competitive programming, experienced in the same field. Connect with me on linkedin for more info.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "LOOKI",
+        "startDate": "2021",
+        "description": "One of the first web apps I was working on my internship. I had to develop front-end implementation for app that was most likely as another already hosted site. I've applied many technologies and my code was reviewed by awesome curator. Application is a replica of a famous shopping site IKEA.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "https://github.com/Iconic-It-Is",
+        "technologies": [
+          {
+            "class": "devicon-react-plain colored",
+            "name": "react"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Note Keeping App",
+        "startDate": "2021",
+        "description": "Personal project for study subject. Used React in the web-app to showcase simple yet better use of technology. I've earned the subjective and practical worth in this project. This was also my first project in Angular framework. I've learned a lot! :)",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
+        ],
+        "url": "https://notes-keeperr.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain colored",
+            "name": "react"
+          },
+          {
+            "class": "devicon-babel-plain colored",
+            "name": "babel"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Secrets",
+        "startDate": "2021",
+        "description": "The most expanded web Application I had opportunity to work with. I've used google O-auth with mongodb to configure and setup the database of Application.",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://blooming-cliffs-05034.herokuapp.com/",
+        "technologies": [
+          {
+            "name": "mongodb",
+            "class": "devicon-mongodb-plain colored",
+            "level": "65"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "To-Do-List",
+        "startDate": "2021",
+        "description": "Used mongodb to configure database",
+        "images": [
+          "images/portfolio/todo/p1.png",
+          "images/portfolio/todo/p2.png"
+        ],
+        "url": "https://boiling-cliffs-70601.herokuapp.com/",
+        "technologies": [
+          {
+            "name": "mongodb",
+            "class": "devicon-mongodb-plain colored",
+            "level": "65"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "css"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "My-First-Site",
+        "startDate": "2021",
+        "description": "Used HTML5, CSS3 and JS6 to make this static webpage, Basic yet filled with a lot of fun learning ;)",
+        "images": [
+          "images/portfolio/mysite/p1.png",
+          "images/portfolio/mysite/p2.png"
+        ],
+        "url": "https://iconic-it-is.github.io/MySite/",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain colored",
+            "level": "65"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "css"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "javascript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Fanto(A tech startup)",
+        "title": "Intern as Front-End Developer",
+        "years": "05.04.2021 - 05.06.2021",
+        "mainTech": [
+          "React 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "Mongodb",
+          "JavaScript",
+          "Bootstrap",
+          "Sass",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "MSME-technology development center",
+        "title": "Trainee",
+        "years": "01.2021 - 02.2021",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++",
+          "Data structures",
+          "Algorithm"
+        ]
+      }
+    ]
+  }

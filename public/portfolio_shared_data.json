@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Aman Kuliyal",
+      "titles": ["Competitive Programmer", "MERN stack wonk" , "Front-end Developer", "Computer nerd", "Core CS geek"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Iconic-It-Is",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/aman-kuliyal-11043107/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "react",
+          "class": "devicon-react-original colored",
+          "level": "60"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "mongodb",
+          "class": "devicon-mongodb-plain colored",
+          "level": "65"
+        }
+      ]
+    }
+  }
